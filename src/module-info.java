@@ -1,2 +1,0 @@
-module mediator_factory {
-}
